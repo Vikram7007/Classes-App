@@ -1,2 +1,1 @@
-# React_App
-this is first project in react
+Classes-App is a React-based web application developed to manage and organize class-related activities efficiently. The project demonstrates the use of React components, state management, routing, and modern UI development practices to create an interactive and user-friendly educational platform. It serves as a beginner-friendly project for learning frontend development with React while showcasing responsive design and reusable component architecture.
